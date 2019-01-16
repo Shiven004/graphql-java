@@ -12,3 +12,5 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Please provide a code example or even better a test to reproduce the bug.
+
+import graphql.StarWarsData; -- import graphql.StarWarsData cannot be resolved in HttMain.java file.
